@@ -1,0 +1,1 @@
+A soft pastel pink website for a boutique lash studio. Features a booking calendar with time slot selection, a mosaic photo gallery, a full services menu with pricing, studio policies, and a social media footer linking to Instagram, TikTok, Facebook, and Pinterest. Clean, feminine, and professional.
